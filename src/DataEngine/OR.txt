@@ -1,0 +1,9 @@
+firstname = .//*[@id='firstname']
+lastname = .//*[@id='lastname']
+phoneno = .//*[@id='phoneno']
+emailid = .//*[@id='emailid']
+businessname = .//*[@id='businessname']
+btn_next = .//*[@id='createPEInfoFormBean']/div[3]/button
+logo_holder = .//*[@id='p_p_id_CreatePE_WAR_PeDevportlet_']/div/div/div/div/div/form[2]/div[2]/div[1]/div/img
+skip_logo_link = btn btn-large btn-plain span2 offset5 create-pe__load-slide
+slip_logo_test = //*[@id='p_p_id_CreatePE_WAR_PeDevportlet_']/div/div/div/div/div/form[3]/div[2]/div[4]/div[1]/label/div
